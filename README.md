@@ -16,3 +16,13 @@
 🗂️ Followed the detailed instructions provided by the company to perform the tasks.
 📊 Understood the tasks and analyzed the best approach for their completion.
 🌐 Utilized online resources to gather information and develop innovative approaches.
+
+
+🖋️ Week 3: Blogging and Core Java Project
+
+📑 Explained the tasks assigned by the company for blog creation, including their scope and objectives.
+🔍 Gathered information and researched topics relevant to my blog's audience.
+🛠️ Learned and used SEO tools such as Yoast SEO and Google Analytics.
+🔑 Focused on "Keyword Optimization" and "Content Creation" to optimize content.
+🚀 Completed a foundational core Java project, focusing on Object-Oriented Programming (OOP) principles, conditional statements, and arithmetic operations.
+💡 Enhanced my understanding and application of fundamental Java concepts through hands-on experience.
