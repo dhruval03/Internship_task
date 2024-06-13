@@ -26,3 +26,11 @@
 🔑 Focused on "Keyword Optimization" and "Content Creation" to optimize content.
 🚀 Completed a foundational core Java project, focusing on Object-Oriented Programming (OOP) principles, conditional statements, and arithmetic operations.
 💡 Enhanced my understanding and application of fundamental Java concepts through hands-on experience.
+
+
+📅 Week 4: Final Projects and Polishing
+
+🔧 Refined the core Java project to ensure all functionalities were smooth and error-free.
+📧 Developed a Java-based mail sender application from scratch, deepening my understanding of Java’s email handling capabilities.
+🖊️ Revisited and improved earlier blog posts based on valuable feedback from my mentor.
+🛠️ Prioritized debugging, testing, and polishing applications to ensure they were robust and ready for deployment.
